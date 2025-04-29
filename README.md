@@ -29,7 +29,7 @@ Fokus utama:
 
 ## 📂 Dataset Source | Sumber Dataset
 
-📥 Original dataset from [Kaggle - Company Spending](https://www.kaggle.com/datasets)
+📥 Original dataset from [Kaggle - Company Purchasing Dataset](https://www.kaggle.com/datasets/shahriarkabir/company-purchasing-dataset)
 
 ---
 
